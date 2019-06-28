@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+
+.modal-backdrop {
+  /* bug fix - no overlay */
+  display: none;
+}
+
+/*.my-dialog {
+  width: 60rem !important;
+  height: 80rem !important;
+  margin-left: 80px;
+}*/
+
+
+.modal-open {
+  padding: 0 !important;
+  overflow-y: auto;
+  position: center;
+  display: block ;
+  appearance: unset;
+}
+
+/*.modal {
+  overflow-y: auto;
+}
+
+.modal-body {
+  position: relative;
+  padding: 20px;
+  height: 200px;
+  overflow-y: auto;
+}*/
+

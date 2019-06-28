@@ -1,0 +1,228 @@
+{
+  "collections": [
+    {
+      "collection": {
+        "collection_id": 1,
+        "res_count": 30,
+        "image_url": "https://b.zmtcdn.com/data/collections/b53772a204429cb9b42313d6dc22bf3c_1556018415.jpg",
+        "url": "https://www.zomato.com/hyderabad/top-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Trending This Week",
+        "description": "Most popular restaurants in town this week",
+        "share_url": "http://www.zoma.to/c-280/1"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 35,
+        "res_count": 15,
+        "image_url": "https://b.zmtcdn.com/data/collections/b5a5caace052be929d9829d32ae1c591_1441697242_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/ramen-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Ramen",
+        "description": "The city's best ramen, and more!",
+        "share_url": "http://www.zoma.to/c-280/35"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 357,
+        "res_count": 12,
+        "image_url": "https://b.zmtcdn.com/data/collections/d86c2a5ddde2233bd36702b2874c4065_1427190345_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/best-bagels?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Brilliant bagels",
+        "description": "A smear of cream cheese, a slice of smoked salmon and you're in food heaven.",
+        "share_url": "http://www.zoma.to/c-280/357"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 41,
+        "res_count": 12,
+        "image_url": "https://b.zmtcdn.com/data/collections/d0a0e32df636a9dfbf850f13a38aa834_1446629668_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/craft-beer?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Craft Beer",
+        "description": "The best house brews in town",
+        "share_url": "http://www.zoma.to/c-280/41"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 432,
+        "res_count": 31,
+        "image_url": "https://b.zmtcdn.com/data/collections/925f72ebbd66725f3ad9af4eda0ef251_1537416010.jpg",
+        "url": "https://www.zomato.com/hyderabad/artisan-cocktails?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Artisan Cocktails",
+        "description": "Inebriation is fine, but it's fun to do it in style once in a while",
+        "share_url": "http://www.zoma.to/c-280/432"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 434,
+        "res_count": 26,
+        "image_url": "https://b.zmtcdn.com/data/collections/3ad9a189e2aa8e44650ba9dd6af82307_1439303559_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/best-cheap-eats?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Cheap Eats",
+        "description": "Fill up your tummy without emptying your pockets",
+        "share_url": "http://www.zoma.to/c-280/434"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 686,
+        "res_count": 28,
+        "image_url": "https://b.zmtcdn.com/data/collections/b6eddae83847144f11b138d4b67ca6a0_1441031905_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/weird-food?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Adventurous eats",
+        "description": "Fried bugs, you say? Step right this way!",
+        "share_url": "http://www.zoma.to/c-280/686"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 339,
+        "res_count": 25,
+        "image_url": "https://b.zmtcdn.com/data/collections/67c4acc3f607dbcff71a8e1e77a70c8a_1535469199.jpg",
+        "url": "https://www.zomato.com/hyderabad/happy-hours?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Happy Hours",
+        "description": "Great deals on booze. Happy hours indeed",
+        "share_url": "http://www.zoma.to/c-280/339"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 7,
+        "res_count": 27,
+        "image_url": "https://b.zmtcdn.com/data/collections/0a765bdc61f3054f4e97f406e561b63f_1418391127_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/legendary-places?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Legendary Outlets",
+        "description": "They say old is gold and here's the proof",
+        "share_url": "http://www.zoma.to/c-280/7"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 125,
+        "res_count": 23,
+        "image_url": "https://b.zmtcdn.com/data/collections/b386fe9dca9543d888e43fb8d3425436_1477292962.jpg",
+        "url": "https://www.zomato.com/hyderabad/weekend-brunch?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Weekend Brunches",
+        "description": "Sit back, enjoy a wide spread and forget that a new work week is sneaking up on you",
+        "share_url": "http://www.zoma.to/c-280/125"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 5,
+        "res_count": 28,
+        "image_url": "https://b.zmtcdn.com/data/collections/d38669ed7b829ceb2814678420a629da_1560353561.jpg",
+        "url": "https://www.zomato.com/hyderabad/best-burger?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Kickass Burgers",
+        "description": "Chow down on a cheeselicious burger!",
+        "share_url": "http://www.zoma.to/c-280/5"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 19,
+        "res_count": 14,
+        "image_url": "https://b.zmtcdn.com/data/collections/35496734375627743221f67e09deec0a_1554698337.jpg",
+        "url": "https://www.zomato.com/hyderabad/vegetarian-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Veggie Friendly",
+        "description": "Restaurants serving the best vegetarian fare",
+        "share_url": "http://www.zoma.to/c-280/19"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 15,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/10dcdac2c6d08f9bae81b04042c34544_1438664251_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/sports-bar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Sports Bars",
+        "description": "The best places to enjoy some sport with your meal",
+        "share_url": "http://www.zoma.to/c-280/15"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 94,
+        "res_count": 19,
+        "image_url": "https://b.zmtcdn.com/data/collections/f672e9556e44fe33ff47bf751639c0bd_1535611700.jpg",
+        "url": "https://www.zomato.com/hyderabad/gourmet-pizza?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Gourmet Pizza",
+        "description": "Pizzas that are a bit more out-of-the-box.",
+        "share_url": "http://www.zoma.to/c-280/94"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 457,
+        "res_count": 27,
+        "image_url": "https://b.zmtcdn.com/data/collections/4d970b05819fee2eb73f38a877ec877f_1441708949_l.jpg",
+        "url": "https://www.zomato.com/hyderabad/best-dumplings?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Delicious dumplings",
+        "description": "Whether it's dim sum from the trolley or bite sized pieces of pan fried gyoza - start here for your city's best Yum Cha and Dumplings haunts",
+        "share_url": "http://www.zoma.to/c-280/457"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 413,
+        "res_count": 11,
+        "image_url": "https://b.zmtcdn.com/data/collections/16a94d4048ac6a37a9ccecfc06c9ca41_1536144262.jpg",
+        "url": "https://www.zomato.com/hyderabad/themed-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Themed Restaurants",
+        "description": "Checkout themed restaurants in your city",
+        "share_url": "http://www.zoma.to/c-280/413"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 3,
+        "res_count": 15,
+        "image_url": "https://b.zmtcdn.com/data/collections/adcba184844a8a9fc44f3e9b059f8315_1554698126.jpg",
+        "url": "https://www.zomato.com/hyderabad/romantic-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Romantic",
+        "description": "The perfect spots for a romantic meal",
+        "share_url": "http://www.zoma.to/c-280/3"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 29,
+        "res_count": 10,
+        "image_url": "https://b.zmtcdn.com/data/collections/7bef8e84e64ccf5b728c77510b7d52ad_1535355701.jpg",
+        "url": "https://www.zomato.com/hyderabad/best-new-restaurants?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Newly Opened",
+        "description": "The best new places in town",
+        "share_url": "http://www.zoma.to/c-280/29"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 20,
+        "res_count": 16,
+        "image_url": "https://b.zmtcdn.com/data/collections/a7ddff4ee0a77e2b32823c2ce5551579_1460030505.jpg",
+        "url": "https://www.zomato.com/hyderabad/great-breakfasts?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Great Breakfasts",
+        "description": "The breakfast must have something to do with happiness ...",
+        "share_url": "http://www.zoma.to/c-280/20"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 65,
+        "res_count": 24,
+        "image_url": "https://b.zmtcdn.com/data/collections/73391cc46aa0d33d5c5cf3bd09981bc6_1469073198.jpg",
+        "url": "https://www.zomato.com/hyderabad/sushi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "title": "Super Sushi",
+        "description": "Classic maki-style rolls, sashimi or nigiri sushi, hit up these spots for your favourite Japanese snack ",
+        "share_url": "http://www.zoma.to/c-280/65"
+      }
+    }
+  ],
+  "has_more": 0,
+  "share_url": "http://www.zoma.to/c-280",
+  "display_text": "OR EXPLORE OUR COLLECTIONS",
+  "has_total": 0
+}
